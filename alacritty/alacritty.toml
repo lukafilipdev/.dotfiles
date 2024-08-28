@@ -1,0 +1,32 @@
+
+import = ["~/.config/alacritty/themes/themes/alacritty_0_12.toml"]
+
+[window]
+
+opacity = 0.9 
+
+padding.x = 20
+padding.y = 10
+
+
+
+[font]
+size = 14
+
+[font.normal]
+
+family = "DejaVu Sans Mono"
+style = "Bold"
+
+[font.bold]
+family = "DejaVu Sans Mono"
+style = "Bold"
+
+[font.italic]
+family = "DejaVu Sans Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "DejaVu Sans Mono"
+style = "Regular"
+
